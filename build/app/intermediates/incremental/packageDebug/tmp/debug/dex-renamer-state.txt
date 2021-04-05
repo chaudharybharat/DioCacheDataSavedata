@@ -1,0 +1,4 @@
+#Mon Apr 05 17:11:15 IST 2021
+base.0=/home/harsh/Downloads/dio-http-cache-master/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
